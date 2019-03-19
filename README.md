@@ -1,5 +1,5 @@
 # SFML_cmake_template
-A simple SFML template using cmake. All you have to do is run "cmake ."
+A simple SFML template using cmake for linux. All you have to do is run "cmake ."
 
 As the above states, this is a simple template for SFML using cmake on linux. 
 
