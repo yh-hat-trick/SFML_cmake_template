@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.1)
+project(2dGame)
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${PROJECT_SOURCE_DIR}/bin)
+add_executable(2dGame src/main.cpp)
+target_link_libraries(2dGame sfml-graphics sfml-window sfml-system sfml-audio sfml-network )
